@@ -5,18 +5,16 @@
     box-sizing: border-box;
 }
 
-.container {
-    width: 100%;
-    height: 100vh;
-    background: linear-gradient(135deg, #153677, #4e085f);
-    padding: 10px;
+/* HTML ve Body için tam yükseklik ve arka plan ayarı */
+html, body {
+    min-height: 100%;
+    background: linear-gradient(135deg, #153677, #4e085f); /* Arka planı burada tutalım */
 }
 
-.description {
-    color: #fff;
-    font-size: 20px;
-    text-align: center;
-    margin-top: 20px;
+.container {
+    width: 100%;
+    min-height: calc(100vh - 100px); /* Footer'ın yüksekliği kadar çıkartıyoruz */
+    padding: 10px;
 }
 
 .todo-app {
@@ -62,6 +60,11 @@ button {
     font-size: 16px;
     cursor: pointer;
     border-radius: 40px;
+}
+
+ul {
+    padding: 0; /* Varsayılan padding'i kaldır */
+    margin: 0; /* Varsayılan margin'i kaldır */
 }
 
 ul li {
@@ -113,16 +116,14 @@ ul li span:hover {
     color: #ff7440;
 }
 
+/* Footer sabitlenmek yerine sayfanın altında yer alacak */
 footer {
     width: 100%;
     background-color: transparent;
-    /* Ana tema rengini footer'a uygulayalım */
     color: #fff;
     text-align: center;
     padding: 20px 10px;
-    position: fixed;
-    bottom: 0;
-    left: 0;
+    margin-top: 20px; /* Üstte bir boşluk bırak */
 }
 
 .footer-content {
