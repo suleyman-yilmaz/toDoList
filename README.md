@@ -30,7 +30,7 @@ You can click on the following link to run this project.<br>
 ## Screenshots
 
 **To-Do List Interface**:
-![To-Do List Screenshot](./images/screenshot.png)
+![217shots_so](https://github.com/user-attachments/assets/ce7c1581-a511-4ac9-8af8-77b42808201e)
 
 ## Contribution
 
@@ -75,7 +75,7 @@ Bu projeyi çalıştırmak için aşağıdaki linke tıklayabilirsiniz.<br>
 ## Ekran Görüntüleri
 
 **To-Do List Arayüzü**:
-![To-Do List Ekran Görüntüsü](./images/screenshot.png)
+![217shots_so](https://github.com/user-attachments/assets/ce7c1581-a511-4ac9-8af8-77b42808201e)
 
 ## Katkıda Bulunma
 
