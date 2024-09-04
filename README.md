@@ -18,7 +18,7 @@ This project is a simple To-Do List application that allows users to manage thei
 ## Running the Project
 
 You can click on the following link to run this project.<br>
-https://to-do-list-sy.vercel.app/
+<a href="https://to-do-list-sy.vercel.app/" target="_blank">Run Project</a>
 
 ## File Structure
 
@@ -63,7 +63,7 @@ Bu proje, kullanıcıların günlük yapılacaklar listesini yönetebilmelerini 
 ## Projeyi Çalıştırmak
 
 Bu projeyi çalıştırmak için aşağıdaki linke tıklayabilirsiniz.<br>
-https://to-do-list-sy.vercel.app/
+<a href="https://to-do-list-sy.vercel.app/" target="_blank">Projeyi Çalıştır</a>
 
 ## Dosya Yapısı
 
